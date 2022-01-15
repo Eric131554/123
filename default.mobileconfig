@@ -17,8 +17,8 @@
 			<false/>
 			<key>IsHotspot</key>
 			<false/>
-			<key>1q2w3e4r</key>
-			<string>123456</string>
+			<key>password</key>
+			<string>1q2w3e4r</string>
 			<key>PayloadDescription</key>
 			<string>Wi-Fi</string>
 			<key>PayloadDisplayName</key>
